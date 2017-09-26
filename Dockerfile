@@ -1,6 +1,6 @@
 FROM hypriot/rpi-alpine-scratch
 
-ENV TAGSPACES_VERSION 2.3.0
+ENV TAGSPACES_VERSION 2.9.0
 
 RUN apk update \
     && apk upgrade \
