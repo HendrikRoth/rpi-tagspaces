@@ -11,3 +11,4 @@ docker run --name tagspaces -d -p 80:80 hendrikroth/rpi-tagspaces
 
 - latest
 - 2, 2.3, 2.3.0
+- 2.9.0
